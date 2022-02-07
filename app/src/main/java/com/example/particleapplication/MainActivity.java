@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         //adding comment for github
 
+        //Adding comment for trying to branch using github.
+
         /*
         ParticleDevice myDevice = null;
         try {
